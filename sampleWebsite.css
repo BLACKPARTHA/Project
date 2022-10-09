@@ -1,0 +1,64 @@
+h1{
+	color: black;
+	background: indianred;	
+	font-size: 120px;
+	margin-top: -10px;
+	padding-bottom: 200px;
+	font-family: "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	margin: 0px;
+}
+li{
+
+	margin-top: 0px;
+	margin-bottom: 10px;
+
+
+	
+
+}
+
+li {
+  display: inline;
+  font-size: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: skyblue;
+}
+
+.NextPara{
+
+	font-size: 30px;
+}
+
+.Next2para{
+	font-size: 30px;
+}
+
+footer{
+	background-color: indianred;
+
+	font-size: 30px;
+}
